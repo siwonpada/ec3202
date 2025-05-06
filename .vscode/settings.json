@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "cmap",
         "DTFS",
         "DTFT",
+        "figsize",
         "imread",
         "imshow",
         "imwrite",
