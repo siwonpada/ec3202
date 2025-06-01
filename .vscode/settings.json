@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "cmap",
+        "Downsampled",
+        "Downsampling",
         "DTFS",
         "DTFT",
         "figsize",
@@ -8,6 +10,7 @@
         "imshow",
         "imwrite",
         "Pointwise",
-        "skimage"
+        "skimage",
+        "Upsampling"
     ]
 }
