@@ -9,6 +9,7 @@
         "imread",
         "imshow",
         "imwrite",
+        "Nyquist",
         "Pointwise",
         "skimage",
         "Upsampling"
